@@ -1,1 +1,0 @@
-const baseURL = 'https://cat-fact.herokuapp.com'
