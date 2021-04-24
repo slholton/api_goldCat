@@ -19,6 +19,7 @@ button {
 }
 
 #fact1 {
+    margin-top: 35%;
     background-color: limegreen;
     font-size: 25px;
     text-align: center;
@@ -26,14 +27,15 @@ button {
 }
 
 #fact2 {
+    margin-top: 20%;
     background-color: yellow;
     font-size: 15x;
-    text-align: justify;
-    justify-content: center;
+    text-align: center;
     opacity: 0.75;
 }
 
 #fact3 {
+    margin-top: 30%;
     background-color: orange;
     font-size: 25px;
     text-align: center;
@@ -41,6 +43,7 @@ button {
 }
 
 #fact4 {
+    margin-top: 15%;
     background-color: pink;
     font-size: 20px;
     margin-left: 25px;
@@ -49,6 +52,7 @@ button {
 }
 
 #fact5 {
+    margin-top: 20%;
     background-color: aqua;
     font-size: 25px;
     margin-right: 25px;
